@@ -1,0 +1,12 @@
+﻿  Renderer3d.cpp
+C:\GLP\pyramid\Renderer3d.cpp(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(85,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(85,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(85,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(85,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(92,31): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GLP\pyramid\Renderer3d.cpp(92,31): warning C4244:         with
+C:\GLP\pyramid\Renderer3d.cpp(92,31): warning C4244:         [
+C:\GLP\pyramid\Renderer3d.cpp(92,31): warning C4244:             _Rep=double
+C:\GLP\pyramid\Renderer3d.cpp(92,31): warning C4244:         ]
+  pyramid.vcxproj -> C:\GLP\pyramid\x64\Debug\pyramid.exe
