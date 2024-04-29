@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GLP\\OpenglProject\\",
+  "WorkspaceRootPath": "C:\\Users\\GIFT IMUSEH\\Documents\\csc212-GRAPHIC_DESIGN\\CSC212_Projects\\OpenglProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D413CE9-44AD-465C-899E-3783753931A8}|OpenglProject.vcxproj|C:\\GLP\\OpenglProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4D413CE9-44AD-465C-899E-3783753931A8}|OpenglProject.vcxproj|C:\\Users\\GIFT IMUSEH\\Documents\\csc212-GRAPHIC_DESIGN\\CSC212_Projects\\OpenglProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D413CE9-44AD-465C-899E-3783753931A8}|OpenglProject.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\GLP\\OpenglProject\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\GIFT IMUSEH\\Documents\\csc212-GRAPHIC_DESIGN\\CSC212_Projects\\OpenglProject\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\GLP\\OpenglProject\\Main.cpp",
+              "ToolTip": "C:\\Users\\GIFT IMUSEH\\Documents\\csc212-GRAPHIC_DESIGN\\CSC212_Projects\\OpenglProject\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAcwGwAAABNAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T17:56:16.996Z",
               "EditorCaption": ""

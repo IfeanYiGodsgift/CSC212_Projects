@@ -30,7 +30,7 @@ int main() {
 	{
 		-0.5f, -0.5f * float(sqrt(3)) / 3, 0.0f,
 		0.5f, -0.5f * float(sqrt(3)) / 3, 0.0f,
-		0.5f, 0.5f * float(sqrt(3)) * 2 / 3, 0.0f,
+		0.0f, 0.5f * float(sqrt(3)) * 2 / 3, 0.0f,
 	};
 
 	GLFWwindow* window = glfwCreateWindow(800, 800, "GLFW Window", NULL, NULL);
