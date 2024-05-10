@@ -1,0 +1,8 @@
+﻿  animate.cpp
+  test.cpp
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL BALL DVD\test.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL BALL DVD\test.cpp(105,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL BALL DVD\test.cpp(106,13): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL BALL DVD\test.cpp(107,13): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDL_Template.vcxproj -> C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL BALL DVD\x64\Debug\SDL_Template.exe
