@@ -1,0 +1,9 @@
+﻿  Animator.cpp
+  Enemy.cpp
+  main.cpp
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\Game\TopDownGame\main.cpp(119,34): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\Game\TopDownGame\main.cpp(119,34): warning C4309: 'argument': truncation of constant value
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\Game\TopDownGame\main.cpp(120,34): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\Game\TopDownGame\main.cpp(120,34): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  SDL_Template.vcxproj -> C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\Game\TopDownGame\x64\Debug\TopDownGame.exe
