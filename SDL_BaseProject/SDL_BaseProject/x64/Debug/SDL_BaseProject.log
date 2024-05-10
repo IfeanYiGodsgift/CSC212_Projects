@@ -1,1 +1,6 @@
-﻿  SDL_BaseProject.vcxproj -> C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\SDL_BaseProject\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe
+﻿  animate.cpp
+  sdl.cpp
+  test.cpp
+C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL_BaseProject\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SDL_BaseProject.vcxproj -> C:\Users\GIFT IMUSEH\Documents\csc212-GRAPHIC_DESIGN\CSC212_Projects\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe
